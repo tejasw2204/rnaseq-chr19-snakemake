@@ -1,0 +1,3 @@
+reference_index: "chr19_index"
+annotation:      "chr19.gtf"
+threads:         4
